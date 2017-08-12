@@ -5,6 +5,7 @@
 ![Learning Git1](/images/hw1/LearningGit1.png)
 ![Learning Git2](/images/hw1/LearningGit2.png)
 ### Hooks
+![Hooks](/images/hw1/hooks.gif)
 ### Concepts
 1. In your own words, explain the difference between continuous integration, continuous delivery, and continuous deployment.
   * Resposta ->
