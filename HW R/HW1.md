@@ -10,8 +10,8 @@
 =======
 ![Basic course setup](/images/logo.png)
 ### Learning Git
-![Learning Git1](/images/LearningGit1)
-![Learning Git2](/images/LearningGit2)
+![Learning Git1](/images/LearningGit1.png)
+![Learning Git2](/images/LearningGit2.png)
 ### Hooks
 >>>>>>> Inicia resposta do hw1
 ### Concepts
