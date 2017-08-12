@@ -2,8 +2,8 @@
 ### Basic course setup
 ![Basic course setup](/images/logo.png)
 ### Learning Git
-![Learning Git1](/images/LearningGit1)
-![Learning Git2](/images/LearningGit2)
+![Learning Git1](/images/LearningGit1.png)
+![Learning Git2](/images/LearningGit2.png)
 ### Hooks
 ### Concepts
 1. In your own words, explain the difference between continuous integration, continuous delivery, and continuous deployment.
