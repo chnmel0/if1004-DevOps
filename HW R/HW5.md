@@ -30,17 +30,21 @@ A rede social escalável não deve comprometer o desempenho e manter o mesmo ní
   * *. Problemas de escalabilidade em redes sociais centralizadas*
 
       - **Large Number of Highly Connected Users.**
-        ![tabela de usuarios](/images/hw5/image1.PNG)
+      
+          ![tabela de usuarios](/images/hw5/image1.PNG)
 
       - **Infrastructure Issues.**
-        ![data Network center](/images/hw5/image2.PNG)
+
+          ![data Network center](/images/hw5/image2.PNG)
 
       - **Internal Network Traffic.**
-        ![data Network center](/images/hw5/image3.PNG)
+
+          ![data Network center](/images/hw5/image3.PNG)
 
       - **User-Generated Content Management and Dissemination.**
-        ![data Network center](/images/hw5/image4.PNG)
-        
+
+          ![data Network center](/images/hw5/image4.PNG)
+
       - **Database Scalability.** Comparação de sistemas de armazenamento escaláveis seleccionadas:
 
           * Cassandra
