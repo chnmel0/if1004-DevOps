@@ -21,51 +21,52 @@ A rede social escalável não deve comprometer o desempenho e manter o mesmo ní
 
   * *Características distintivas das redes sociais on-line* e algumas características distintivas das redes sociais online que os separa de outras aplicações da Internet, como navegação, e-mail, pesquisa, Música, vídeos e jogos.
 
-      1. **Dynamic Social Graph.**
-      2. **Frequency of Content Generation.**
-      3. **Unpredictable Expansion.**
-      4. **Always-On Connectivity.**
-      5. **Asymmetric Relationships.**
+      - **Dynamic Social Graph.**
+      - **Frequency of Content Generation.**
+      - **Unpredictable Expansion.**
+      - **Always-On Connectivity.**
+      - **Asymmetric Relationships.**
 
   * *. Problemas de escalabilidade em redes sociais centralizadas*
 
-      1. **Large Number of Highly Connected Users.**
+      - **Large Number of Highly Connected Users.**
         ![tabela de usuarios](/images/hw5/image1.PNG)
-      2. **Infrastructure Issues.**
+      - **Infrastructure Issues.**
         ![data Network center](/images/hw5/image2.PNG)
-      3. **Internal Network Traffic.**
+      - **Internal Network Traffic.**
         ![data Network center](/images/hw5/image3.PNG)
-      4. **User-Generated Content Management and Dissemination.**
+      - **User-Generated Content Management and Dissemination.**
         ![data Network center](/images/hw5/image4.PNG)
-      5. **Database Scalability.** Comparação de sistemas de armazenamento escaláveis seleccionadas:
+      - **Database Scalability.** Comparação de sistemas de armazenamento escaláveis seleccionadas:
 
-        * Cassandra
-        * Haystack
-        * Bigtable
-        * Megastore
-        * Platform for Nimble Universal Table Storage (PNUTS)
-        * Dynamo
-        * MongoDB
-        * Cluster of Order-Preserving Servers
-        * Scalable Consistency Adjustable Data Storage
+          * Cassandra
+          * Haystack
+          * Bigtable
+          * Megastore
+          * Platform for Nimble Universal Table Storage (PNUTS)
+          * Dynamo
+          * MongoDB
+          * Cluster of Order-Preserving Servers
+          * Scalable Consistency Adjustable Data Storage
 
   * *Problemas de escalabilidade em descentralizadas Redes Sociais* Em termos de recursos, como espaço de armazenamento e largura de banda de rede, descentralizada redes sociais são consideradas escalável porque os usuários podem compartilhar virtualmente ilimitado armazenamento e largura de banda contribuído por outros usuários de uma rede social. Os seguintes problemas de escalabilidade de redes sociais descentralizadas são aplicáveis ao P2P e redes sociais móveis:
-      * **Profile and Content Availability.**
-      * **Content Distribution.**
-      * **Energy Efficiency.**
-      * **Security and Privacy**
-      * **Large-Scale Implementation.**
+      - **Profile and Content Availability.**
+      - **Content Distribution.**
+      - **Energy Efficiency.**
+      - **Security and Privacy**
+      - **Large-Scale Implementation.**
 
   * *Escalabilidade de Redes Sociais híbridos*
 
   * *Métricas de escalabilidade para redes sociais* Com base na revisão da literatura, nós esboçamos algumas métricas para avaliar o scaladade de arquiteturas de rede sociais. Uma discussão detalhada e em profundidade sobre cada parametro e seu impacto entre todas as arquiteturas discutidos é fornecido no seguinte seções.
-      * **Availability.**
-      * **Latency.**
-      * **Interserver Communication.**
-      * **Cost of Engineering and Resources.**
-      * **Energy Consumption and Maintenance Cost**
-      * **Internet Bandwidth Requirement**
-      * **Data Consistency.**
-      * **Data Replication.**
-      * **Privacy and Security.**
-      ![metricas](/images/hw5/image5.PNG)
+      - **Availability.**
+      - **Latency.**
+      - **Interserver Communication.**
+      - **Cost of Engineering and Resources.**
+      - **Energy Consumption and Maintenance Cost**
+      - **Internet Bandwidth Requirement**
+      - **Data Consistency.**
+      - **Data Replication.**
+      - **Privacy and Security.**
+
+    ![metricas](/images/hw5/image5.PNG)
