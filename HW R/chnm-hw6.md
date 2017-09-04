@@ -6,9 +6,9 @@
 
 Este trabalho apresenta o resultado de um estudo realizado com base em uma enorme quantidade de build's de dev, gerada por vários desenvolvedores em um período de tempo. E com isso buscar insights sobre como o processo de organização de construção funciona, e aponta erros para os quais ainda mais suporte ao desenvolvedor.
 O **_tempo de compilação_** atinge diretamente o desenvolvedor onde se a compilação é mais rápida o desenvolvedor tem mais tempo para mudanças de códigos e focar no contexto em que ta se levando o projeto. Então a partir de 3 questões pesquisadas para descrever o processo de coleta de dados e métricas, e explicar as ameaças à validade e seu potencial impacto sobre as pesquisas. essas questões foram: 
-> RQ1. How often do builds fail? 
-> RQ2. Why do builds fail?
-> RQ3. How long does it take to fix broken builds? 
+> 1. RQ1. How often do builds fail? 
+> 2. RQ2. Why do builds fail?
+> 3. RQ3. How long does it take to fix broken builds? 
 
 Com isso obtiveram vários resultados e criaram métricas. Bem com base nisso vi que foi encontrado pontos onde erros em buildings atrapalham ou atrasam em projetos de desenvolvedores, e tiraram esta base 	do resultado que foi obtidos compilações em sistema de construção baseado em nuvem do Google são salvos em registros persistentes que descrevem o resultado de cada construção (êxito ou falha) e os erros produzidos por todos compila durante a construção. 
 
