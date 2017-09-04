@@ -1,6 +1,6 @@
 # HW6
-> Carlos Henrique do Nascimento Melo
-> <chnm@cin.ufpe.br>
+> - Carlos Henrique do Nascimento Melo
+> - <chnm@cin.ufpe.br>
 
 #### **Your understanding of the work, a brief resume, strong and positive points, weak points, etc.**
 
