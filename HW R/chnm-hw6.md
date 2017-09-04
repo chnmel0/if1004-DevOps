@@ -12,9 +12,6 @@ O **_tempo de compilação_** atinge diretamente o desenvolvedor onde se a compi
 
 Com isso obtiveram vários resultados e criaram métricas. Bem com base nisso vi que foi encontrado pontos onde erros em buildings atrapalham ou atrasam em projetos de desenvolvedores, e tiraram esta base 	do resultado que foi obtidos compilações em sistema de construção baseado em nuvem do Google são salvos em registros persistentes que descrevem o resultado de cada construção (êxito ou falha) e os erros produzidos por todos compila durante a construção. 
 
-![tabela Recolha de dados](/images/hw6/img1.png)
-
-----------
 
 Então eles categorizaram esses erros, como os que mais ocorrem.
 Esse estudo nos apresenta pontos onde nos desenvolvedores mais temos problemas com relação ao building, erros na compilação que nos atrapalham e como isso reflete em nosso trabalho. Com isto pode-se ter uma base onde pode mais ter suporte para que se melhore. Onde ele fala de buildings demoradas como por exemplo 12hrs e como é tratado estas falhas. Então vejo este artigo como um ponto de melhora para desenvolvedores e formas de agilizar o seu trabalho.
