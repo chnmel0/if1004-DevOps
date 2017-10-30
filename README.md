@@ -15,6 +15,8 @@ Desmistificando Microsserviços e DevOps: Projetando Arquiteturas Efetivamente E
 
 Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E121.
 
+Aulas práticas, quando ocorreram, serão no Lab G2.
+
 ### Ementa
 
 As modernas organizações de desenvolvimento de software exigem equipes inteiras de DevOps para automatizar e manter processos de engenharia de software e infraestrutura vitais para a organização. Nesta disciplina, os alunos terão exposição prática às habilidades, ferramentas e conhecimentos necessários para automatizar processos e infraestruturas de engenharia de software. Os alunos terão a chance de criar novas, ou ampliar, ferramentas existentes de engenharia de software e projetar um pipeline DevOps.
@@ -24,31 +26,59 @@ As modernas organizações de desenvolvimento de software exigem equipes inteira
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [DevOps: A Software Architect's Perspective (SEI Series in Software Engineering)](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html): How Google runs Production Systems. Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy.
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 
 ### Bibliografia Complementar
 
-- [Continous Delivery](http://www.continuousdelivery.com)
-- [Continous Integration](http://www.www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
-- [Designing Data-Intensive Applications](http://www.dataintensive.net/)
-- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+- [The evolution of DevOps](https://www.oreilly.com/ideas/the-evolution-of-devops?imm_mid=0f5f78&cmp=em-webops-na-na-vlny17_nurture_em9_evolution_devops)
+- [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [The Practice of Cloud System Administration](http://www.the-cloud-book.com/)
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+- [Designing Data-Intensive Applications](http://www.dataintensive.net/)
+- [Continous Delivery](http://www.continuousdelivery.com)
 - [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](https://www.casadocodigo.com.br/products/livro-ferramentas-devops)
 - [DevOps na prática: entrega de software confiável e automatizada](https://www.casadocodigo.com.br/products/livro-devops)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
+- [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
 - [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 - [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
 - [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
 - [Test-Driven Development: Teste e Design no Mundo Real](https://www.casadocodigo.com.br/products/livro-tdd)
 - [Cloud Computing: Concepts, Technology & Architecture](http://www.amazon.com/Cloud-Computing-Practice-Dan-Marinescu/dp/0124046274)
+- [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+
+### Blogs, Disciplinas, Treinamentos
+
+- [Where to Start with DevOps Series](https://itrevolution.com/starting-devops-value-stream/), October 17, 2016 by Gene Kim (**must read!**)
+- [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
-- [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
+
+### Business Cases
+
+- [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
+- [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
+- [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
+- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
+- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen 
+on Sep 19, 2017
+
+### Research Trends
+
+- [How does Docker affect energy consumption? Evaluating workloads in and out of Docker containers](https://arxiv.org/abs/1705.01176)
+- M. Kassab, J. F. DeFranco and P. A. Laplante, "[Software Testing: The State of the Practice](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
+- R. Valerdi, "[Why Software Is Like Baseball](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
+- M. Kersten, "[Value Stream Architecture](http://ieeexplore.ieee.org/document/8048647/)," in IEEE Software, vol. 34, no. 5, pp. 10-12, 2017. doi: 10.1109/MS.2017.3571573
+- E. Woods, "[Should Architects Code?](http://ieeexplore.ieee.org/document/8048649/)," in IEEE Software, vol. 34, no. 5, pp. 20-21, 2017. doi: 10.1109/MS.2017.3571574
+- J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
+- K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
+
 
 ### Objetivos
 
@@ -104,27 +134,27 @@ Para participar deste curso é desejável que os participantes tenham:
 | Classes       | Topics                      | Resources | Assignments |
 |:-------------:|-----------------------------|:---------:|:-----------:|
 | Aug-07   | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-01.pdf) |  [Paper-01](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading01.pdf) | [HW1](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw1.md) |
-| Aug-09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) | [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
-| Aug-14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) | [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
-| Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) | [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
+| Aug-09   | [Background: What is DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-02.pdf) (Chapter 1 from Len Bass' book)| [Paper-02](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading02.pdf) | [HW2](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw2.md) |
+| Aug-14   | [Background: The Cloud as a Platform](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-03.pdf) (Chapter 2 from Len Bass' book)| [Suggestion](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03-suggestion.pdf) | [Paper-03](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading03.pdf) |
+| Aug-16   | [Background: Operations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-04.pdf) (Chapter 3 from Len Bass' book)| [Paper-04](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading04.pdf) | [HW3](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw3.md) |
 | Aug-21 | [The Deployment Pipeline](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-05.pdf) |            | [HW4](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw4.md)|
-| Aug-23 | DevOps and Architectural implications: Scalability | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
+| Aug-23 | [DevOps and Architectural implications: Scalability](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-06.pdf) | [Paper-05](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading05.pdf) & [Paper-06](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading06.pdf)| [HW5](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw5.md)|
 | Aug-28 | Seminars |            | |
-| Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
-| Sep-04 | Deploy and Containers|            | |
-| Sep-06 | Deploy and Containers|            | |
-| Sep-11 | Monitoring |            | |
-| Sep-13 | Business Considerations |            | |
-| Sep-18 | Case Studies: Implementing a Continuous Deployment Pipeline for Enterprises |            | |
-| Sep-20 | Case Studies: Migrating to Microservices |            | |
-| Sep-25 | Case Studies: Supporting Multiple Datacenters |            | |
-| Sep-27 | Moving into the Future: The Future of DevOps |            | |
-| Oct-02 | Moving into the Future: Operations as a Process|            | |
-| Oct-04 |  |            | |
-| Oct-09 |  |            | |
-| Oct-11 |  |            | |
-| Oct-16 |  |            | |
-| Oct-18 |  |            | |
+| Aug-30 | [Other \*Ilities](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-08.pdf) (Chapter 9 from Len Bass' book)| [Paper-07](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-reading07.pdf) | [HW6](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw6.md) |
+| Sep-04 | [Deploy and Containers](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-09.pdf)| ||
+| Sep-06 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until10.pdf)           |  [HW7](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw7.md)|
+| Sep-11 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until18.pdf)           | |
+| Sep-13 | Deploy and Containers| [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/docker-exercises-until19.pdf)           | |
+| Sep-18 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-20 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-25 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Sep-27 | Monitoring | [Exercises](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/monitoring-exercises.txt)           | |
+| Oct-02 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW8](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw8.md) |
+| Oct-04 | [Migrating Applications to Native Cloud Architectures](http://bit.ly/microservices-cbsoft-2017) |  | [HW9](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw9.md) |
+| Oct-09 | [Business Considerations](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-19.pdf) (Chapter 10 from Len Bass' book) |  | [HW10](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw10.md) |
+| Oct-11 | [Moving into the Future & The Future of DevOps](https://github.com/vinicius3w/if1004-DevOps/blob/master/lectures/if1004-devops-20.pdf) (Chapters 14 & 15 from Len Bass' book)|            | |
+| Oct-16 | Introduction to Configuration Management |            | |
+| Oct-18 | Introduction to Configuration Management |            | [HW11](https://github.com/vinicius3w/if1004-DevOps/blob/master/HW/hw11.md) |  
 | Oct-23 |  |            | |
 | Oct-25 |  |            | |
 | Oct-30 |  |            | |
